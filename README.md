@@ -1,7 +1,7 @@
 # walleApkHelper
 meituan 2代打包方式的apk信息渠道查看器
 效果图如下
-![img](https://github.com/tomatozheng@qq.com/walleApkHelper/apk_helper/readme.gif)
+![img](https://github.com/tomatozheng/walleApkHelper/blob/master/apk_helper/readme.gif)
 
  
 使用 说明：
